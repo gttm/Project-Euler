@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-import math
 
 triangle = 0
 i = 1

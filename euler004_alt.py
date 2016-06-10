@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-import math
 
 def revStr(s):
     rev = ""

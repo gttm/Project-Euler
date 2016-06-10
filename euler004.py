@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-from __future__ import division
-import math
 
 def helper(palindromes):
     for p in palindromes:
